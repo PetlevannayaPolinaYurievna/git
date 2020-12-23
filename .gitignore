@@ -1,5 +1,132 @@
-# Object file
-*.o
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Wed-страница Петлеванной Полины</title>
+</head>
 
-# Ada Library Information
-*.ali
+<body bgcolor=" #1F1F1F ">
+<span style="text-align: right"></span><span style="text-align: right"></span><span style="text-align: right"></span><span style="text-align: right"></span><span style="text-align: right"></span><span style="text-align: right"></span>
+
+
+<p align="center"> <font color="#FFFFFF"> Петлеванная Полина ПИ-203 </font></p>
+
+<H3 align="center"> <font color="#FFFFFF">
+<p>Историческая справка
+</H1>
+
+</p>
+<p style=" text-align: justify; color: #17A4B3"> <span style="font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', serif"> <span style="font-size: 16px">В 1969 году Министерство обороны США посчитало, что на случай войны Америке нужна надежная система передачи данных. Агентство передовых исследовательских проектов США <strong><em>(ARPA)</em></strong> предложило разработать для этого компьютерную сеть. Разработка такой сети была поручена Калифорнийскому университету в Лос-Анджелесе, Стэнфордскому исследовательскому центру, Университету штата Юта и Университету штата Калифорния в СантаБарбаре. Компьютерная сеть была названа<strong><em> ARPANET</em></strong> (англ. <strong><em>Advanced Research Projects Agency Network</em></strong>), в рамках проекта сеть объединила четыре указанных научных учреждения, все работы финансировались за счёт Министерства обороны США. Первый сервер <strong><em>ARPANET </em></strong>был установлен 1 сентября 1969 года в Калифорнийском университете в Лос-Анджелесе. Компьютер <em><strong>«Honeywell 516»</strong></em> имел 12 килобайт оперативной памяти.</span></span> </p>
+
+<p style="text-align: justify; color: #290042;"> <span style="color: #E8B45B"> <span style="font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif"><span style="font-size: 12px"> Затем сеть <strong><em>ARPANET</em></strong> начала активно расти и
+развиваться, ее начали использовать ученые из разных
+областей науки. В 1983 году за сетью <strong><em>ARPANET</em></strong> закрепился
+термин «Интернет».</span></span></span></p>
+<p></p>
+
+
+
+
+<table width="467" height="352" border="1">
+<tbody>
+<tr>
+<td align="center" width="68" bgcolor="#FFC600" style="color: #000000">пн </td>
+<td align="center" width="60" bgcolor="#FFC600" style="color: #000000">вт </td>
+<td align="center" width="52" bgcolor="#FFC600" style="color: #000000"> ср</td>
+<td align="center" width="60" bgcolor="#FFC600" style="color: #000000"> чт</td>
+<td align="center"  width="55" bgcolor="#FFC600" style="color: #000000">пт </td>
+<td align="center" width="60" bgcolor="#FFC600" style="color: #000000">сб </td>
+<td align="center" width="66" bgcolor="#FFC600" style="color: #000000">вс </td>
+</tr>
+<tr>
+<td align="right" valign="top" bgcolor="#FFFFFF" style="color: #000000">&nbsp;</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">1</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">2</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">3</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">4</td>
+<td align="right" valign="top" bgcolor="#00FF05" style="color: #000000">5</td>
+<td align="right" valign="top" bgcolor="#00FF05" style="color: #000000">6</td>
+</tr>
+<tr>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">7</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">8</td>
+<td align="right" valign="top" bgcolor="#FFA600" style="color: #000000">9</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">10</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">11</td>
+<td align="right" valign="top" bgcolor="#00FF05" style="color: #000000">12</td>
+<td align="right" valign="top" bgcolor="#00FF05" style="color: #000000">13</td>
+</tr>
+<tr>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">14</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">15</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">16</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">17</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">18</td>
+<td align="right" valign="top" bgcolor="#00FF05" style="color: #000000">19</td>
+<td align="right" valign="top" bgcolor="#00FF05" style="color: #000000">20</td>
+</tr>
+<tr>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">21</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">22</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">23</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">24</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">25</td>
+<td align="right" valign="top" bgcolor="#00FF05" style="color: #000000">26</td>
+<td align="right" valign="top" bgcolor="#00FF05" style="color: #000000">27</td>
+</tr>
+<tr>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">28</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">29</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">30</td>
+<td align="right" valign="top" bgcolor="#00FBFF" style="color: #000000">31</td>
+<td colspan="3" bgcolor="#FFFFFF" style="color: #000000">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+	
+
+<h2 style="text-align: center"><strong> <em>Классификация компьютерных сетей</em></strong></h2>
+<ol><p> </p> </ol>
+<li style="color: #4CAF50; text-align: left; font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', serif;"><strong>По характеру соединения и используемой аппаратуре</strong></li>
+<ul style="color: #4CAF50; font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', serif;">
+<li>Локальные</li>
+<li>Телекоммуникационные</li>
+</ul>
+	
+<li><strong style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif; color: #E8B46A;">По охватываемому региону</strong></li>
+	
+<ul style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif; color: #E8B46A;">
+<li>Локальные</li>
+<li>Местные</li>
+<li>Региональные</li>
+<li>Национальные</li>
+<li>Глобальные</li>
+</ul>
+	
+	
+<li><strong style="color: #CF261F; font-family: Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', monospace;">По принадлежности</strong></li>
+<ul style="font-family: Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', monospace; color: #CF261F;">
+<li>Корпоративные</li>
+<li>Муниципальные</li>
+<li>Государственные</li>
+<li>Ведомственные</li>
+<li>Частные</li>
+</ul>
+	
+<li><strong style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; color: #1BA9AE;">По наличию сервера</strong></li>
+<ul style="font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; color: #1BA9AE;">
+
+<li>Одноранговые</li>
+<li>Иерархические</li>
+</ul>
+
+
+	<p align="center"><img src="untitled.png" width="473" height="442" border=5 ></p>
+	<p align="center"><img src="untitleуd.png" width="737" height="553" border=5 ></p>
+	
+	
+	
+	
+	
+</body>
+</html>
